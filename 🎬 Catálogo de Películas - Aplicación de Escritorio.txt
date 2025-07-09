@@ -1,0 +1,39 @@
+
+## 💻 Requisitos del proyecto Catálogo de Películas
+
+- Python 3.11 o superior
+- Sistema operativo: Windows, Linux o macOS
+
+## 🛠️ Instalación
+
+1. **Clonar o descargar el proyecto**
+
+```bash
+git clone https://github.com/tu_usuario/TP-CatalogoPeliculas.git
+cd TP-CatalogoPeliculas
+```
+
+2. **Crear un entorno virtual (opcional pero recomendado)**
+
+```bash
+python -m venv env
+source env/bin/activate  # En Windows: env\Scripts\activate
+```
+
+3. **Instalar las dependencias**
+
+```bash
+pip install -r requirements.txt
+```
+
+4. **Ejecutar la aplicación**
+
+```bash
+python main.py
+```
+
+# Módulos estándar de Python utilizados:
+# - sqlite3
+# - tkinter
+
+# No se requieren paquetes adicionales instalables por pip.

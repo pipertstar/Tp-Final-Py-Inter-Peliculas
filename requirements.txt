@@ -1,0 +1,2 @@
+# Este proyecto utiliza librerías estándar de Python (Tkinter y Sqlite3)
+# No requiere instalaciones externas, pero se incluye el archivo por compatibilidad.

@@ -65,19 +65,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🧾 Integrantes
-
-- **Nombre:** Noelia Enriquez
-  **Email:** Noeliasenriquez@gmail.com
-
-- **Nombre:** Monica Muscio
-  **Email:** Monimuscio@gmail.com
-
-- **Nombre:** Graciela Gispert de la Puente
-  **Email:** apkemprende@gmail.com
-
-
-
 ## 🛠️ Tecnologías Usadas
 
 - Python 3.11
@@ -86,5 +73,3 @@ python main.py
 - POO y organización modular en carpetas
 
 ---
-
-¡Gracias por revisar nuestro trabajo! 🎉
